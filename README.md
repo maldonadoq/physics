@@ -1,4 +1,4 @@
-# physics
+# Physics
 Física Computacional
 
 # Library OpenGL - OpenCv
