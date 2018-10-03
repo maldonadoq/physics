@@ -262,8 +262,8 @@ int main(int argc, char *argv[]){
 	thread a(&info);
 	glutInit(&argc, argv);
 
-	glutInitContextVersion(4, 2);
-	glutInitContextProfile(GLUT_COMPATIBILITY_PROFILE);
+	//glutInitContextVersion(4, 2);
+	//glutInitContextProfile(GLUT_COMPATIBILITY_PROFILE);
 
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
 	glutInitWindowSize(1000, 500);
