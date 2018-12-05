@@ -14,8 +14,8 @@
 
 ## Compile
 ```sh
-	$ cd folder
-	$ g++ -std=c++11 -pthread main.cpp -lGL -lGLU -lGLEW -lglut `pkg-config --cflags --libs opencv`
+$ cd folder
+$ g++ -std=c++11 -pthread main.cpp -lGL -lGLU -lGLEW -lglut `pkg-config --cflags --libs opencv`
 ```
 
 [![Alt text](https://img.youtube.com/vi/XiULaVG2m6s/0.jpg)](https://www.youtube.com/watch?v=XiULaVG2m6s)
