@@ -9,6 +9,9 @@
  * OpenGL
  * OpenCV
 
+## Images
+ [github link](https://github.com/Sectah/Solar-system) 
+
 ## Compile
  * cd folder
  * $ g++ -std=c++11 -pthread main.cpp -lGL -lGLU -lGLEW -lglut `pkg-config --cflags --libs opencv`
