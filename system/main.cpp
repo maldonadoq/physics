@@ -281,4 +281,4 @@ int main(int argc, char *argv[]){
 	return 0;
 }
 
-//((cos(exp(x*y))*exp(x*y)*(y+(z*x))*((2*y)-(x*cos(exp(x*y)))))-(sin(exp(x*y))*((2*z)-cos(exp(x*y))+(x*sin(exp(x*y))))*exp(x*y)*(y+(z*x))))/power((2*y)-(x*cos(exp(x*y))),2)
+// images from https://github.com/Sectah/Solar-system
