@@ -1,6 +1,7 @@
 #include <iostream>
-#include "opencv2/highgui/highgui.hpp"
-#include "opencv2/imgproc/imgproc.hpp"
+#include <opencv2/highgui/highgui.hpp>
+#include <opencv2/imgproc/imgproc.hpp>
+
 #include <GL/glew.h>
 #include <GL/freeglut.h>
 #include <GL/glext.h>
