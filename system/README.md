@@ -5,7 +5,6 @@
  * **C++**
 
 ## Required Dependencies
- * ScalaFX
  * OpenGL
  * OpenCV
 
